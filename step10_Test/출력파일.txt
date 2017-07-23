@@ -1,0 +1,16 @@
+FirstClass : [O, O, O, O, O, O, O, O, O, O]
+EconomytClass : [O, O, O, O, O, O, O, O, O, O]
+==========좌석 예약===========
+FirstClass : [O, O, ●, ●, O, O, O, O, O, O]
+EconomytClass : [O, O, O, O, ●, ●, O, O, O, O]
+==========좌석 검색===========
+[ 클래스 : FirstClass, 좌석 번호 : 2, 이름 : 장기혁, 나이 : 27, 휴대폰 번호 : 010, 특별 서비스 : 스테이크]
+[ 클래스 : FirstClass, 좌석 번호 : 3, 이름 : 최윤진, 나이 : 29, 휴대폰 번호 : 018, 특별 서비스 : 스테이크]
+==========좌석 업데이트===========
+[ 클래스 : FirstClass, 좌석 번호 : 7, 이름 : 장기혁, 나이 : 27, 휴대폰 번호 : 010, 특별 서비스 : 스테이크]
+[ 클래스 : EconomyClass, 좌석 번호 : 1, 이름 : 금동민, 나이 : 24, 휴대폰 번호 : 011, 기타 등등 : 기내식]
+FirstClass : [O, O, O, ●, O, O, O, ●, O, O]
+EconomytClass : [O, ●, O, O, ●, O, O, O, O, O]
+==========좌석 삭제===========
+FirstClass : [O, O, O, ●, O, O, O, O, O, O]
+EconomytClass : [O, ●, O, O, O, O, O, O, O, O]
