@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 3 packages to &apos;step07_miniProject/src&apos;&#x0D;&#x0A;- Original project: &apos;step05_miniProjectOOP_s&apos;&#x0D;&#x0A;- Destination element: &apos;step07_miniProject/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     step05_miniProjectOOP_s/src/probono.service&#x0D;&#x0A;     step05_miniProjectOOP_s/src/probono.model.dto&#x0D;&#x0A;     step05_miniProjectOOP_s/src/probono.view" description="Copy packages" destination="=step07_miniProject/src" element1="/src&lt;probono.service" element2="/src&lt;probono.model.dto" element3="/src&lt;probono.view" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1498720957393" version="1.0"/>
-</session>
